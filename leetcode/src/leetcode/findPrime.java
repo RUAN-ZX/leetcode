@@ -8,6 +8,8 @@ package leetcode;
  * @Version 1.0.0-Beta
  **/
 public class findPrime {
+    public static void main(String[] args) {
 
+    }
 
 }
