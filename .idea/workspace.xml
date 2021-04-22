@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8734538-e1e1-43ac-9596-2783987d9ecd" name="Default Changelist" comment="" />
+    <list default="true" id="c8734538-e1e1-43ac-9596-2783987d9ecd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../jvm_base_knowledge" />
@@ -147,7 +150,7 @@
       <workItem from="1615034363512" duration="111000" />
       <workItem from="1618496173393" duration="873000" />
       <workItem from="1618553054262" duration="599000" />
-      <workItem from="1619067364598" duration="5675000" />
+      <workItem from="1619067364598" duration="6028000" />
     </task>
     <servers />
   </component>

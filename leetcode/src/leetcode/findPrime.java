@@ -10,6 +10,7 @@ package leetcode;
 public class findPrime {
     public static void main(String[] args) {
 
+
     }
 
 }
