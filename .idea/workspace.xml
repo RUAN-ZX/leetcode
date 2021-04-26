@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8734538-e1e1-43ac-9596-2783987d9ecd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/leetcode/array/Maximumhealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/leetcode/binarySearch/FirstBadVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/leetcode/binarySearch/SearchInsert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/leetcode/binarySearch/SearchRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/leetcode/synthesis/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/leetcode/DynamicProgramming/MaxProfitII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/leetcode/DynamicProgramming/MaxProfitIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/leetcode/DynamicProgramming/MaxProfitIV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/leetcode/DynamicProgramming/MaxSumOfThreeSubarrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/leetcode/MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/leetcode/TwoPointer/MoveZeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/leetcode/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/leetcode/TwoPointer/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/leetcode/RemoveElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/leetcode/TwoPointer/RemoveElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/leetcode/RemoveItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/leetcode/TwoPointer/RemoveItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/leetcode/linkedListReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/leetcode/RecursionAndIteration/linkedListReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/MoveZeroes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/RemoveDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/RemoveElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/RemoveItems.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/linkedListReverse$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/linkedListReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/leetcode/DynamicProgramming/MaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/leetcode/DynamicProgramming/MaxProfit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +53,59 @@
       <recent name="solution_leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxSubArray">
+  <component name="RunManager" selected="Application.MaxProfitIV">
+    <configuration name="MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.DynamicProgramming.MaxProfit" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxProfitII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.DynamicProgramming.MaxProfitII" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxProfitIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.DynamicProgramming.MaxProfitIII" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxProfitIV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.DynamicProgramming.MaxProfitIV" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.synthesis.MaxSubArray" />
       <module name="leetcode" />
@@ -79,65 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximumhealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.array.Maximumhealth" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.TwoPointer.MoveZeroes" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.binarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveItems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.TwoPointer.RemoveItems" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.binarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.binarySearch.SearchInsert" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.binarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxProfitIV" />
+        <item itemvalue="Application.MaxProfitIII" />
+        <item itemvalue="Application.MaxProfitII" />
+        <item itemvalue="Application.MaxProfit" />
         <item itemvalue="Application.MaxSubArray" />
-        <item itemvalue="Application.Maximumhealth" />
-        <item itemvalue="Application.SearchInsert" />
-        <item itemvalue="Application.MoveZeroes" />
-        <item itemvalue="Application.RemoveItems" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +157,8 @@
       <workItem from="1618553054262" duration="599000" />
       <workItem from="1619067364598" duration="21240000" />
       <workItem from="1619141694670" duration="7169000" />
-      <workItem from="1619174703958" duration="10058000" />
+      <workItem from="1619174703958" duration="22580000" />
+      <workItem from="1619442496937" duration="3885000" />
     </task>
     <servers />
   </component>
@@ -198,63 +187,68 @@
     </state>
     <state x="653" y="235" key="FileChooserDialogImpl/-1920.2.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1615034463303" />
     <state x="518" y="188" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1613619673907" />
-    <state width="1799" height="226" key="GridCell.Tab.0.bottom" timestamp="1619183927424">
+    <state width="1799" height="226" key="GridCell.Tab.0.bottom" timestamp="1619446483177">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
     <state width="1799" height="364" key="GridCell.Tab.0.bottom/0.0.1842.1080/-1920.2.1474.864@-1920.2.1474.864" timestamp="1619097539689" />
-    <state width="1799" height="226" key="GridCell.Tab.0.bottom/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619183927424" />
-    <state width="1799" height="226" key="GridCell.Tab.0.center" timestamp="1619183927424">
+    <state width="1799" height="226" key="GridCell.Tab.0.bottom/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619446483177" />
+    <state width="1799" height="226" key="GridCell.Tab.0.center" timestamp="1619446483177">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
     <state width="1799" height="364" key="GridCell.Tab.0.center/0.0.1842.1080/-1920.2.1474.864@-1920.2.1474.864" timestamp="1619097539689" />
-    <state width="1799" height="226" key="GridCell.Tab.0.center/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619183927424" />
-    <state width="1799" height="226" key="GridCell.Tab.0.left" timestamp="1619183927424">
+    <state width="1799" height="226" key="GridCell.Tab.0.center/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619446483177" />
+    <state width="1799" height="226" key="GridCell.Tab.0.left" timestamp="1619446483177">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
     <state width="1799" height="364" key="GridCell.Tab.0.left/0.0.1842.1080/-1920.2.1474.864@-1920.2.1474.864" timestamp="1619097539688" />
-    <state width="1799" height="226" key="GridCell.Tab.0.left/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619183927424" />
-    <state width="1799" height="226" key="GridCell.Tab.0.right" timestamp="1619183927424">
+    <state width="1799" height="226" key="GridCell.Tab.0.left/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619446483177" />
+    <state width="1799" height="226" key="GridCell.Tab.0.right" timestamp="1619446483177">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
     <state width="1799" height="364" key="GridCell.Tab.0.right/0.0.1842.1080/-1920.2.1474.864@-1920.2.1474.864" timestamp="1619097539689" />
-    <state width="1799" height="226" key="GridCell.Tab.0.right/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619183927424" />
-    <state width="1799" height="364" key="GridCell.Tab.1.bottom" timestamp="1619182420524">
+    <state width="1799" height="226" key="GridCell.Tab.0.right/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619446483177" />
+    <state width="1799" height="364" key="GridCell.Tab.1.bottom" timestamp="1619425551195">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
     <state width="1799" height="364" key="GridCell.Tab.1.bottom/0.0.1842.1080/-1920.2.1474.864@-1920.2.1474.864" timestamp="1619097539690" />
-    <state width="1799" height="364" key="GridCell.Tab.1.bottom/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619182420524" />
-    <state width="1799" height="364" key="GridCell.Tab.1.center" timestamp="1619182420524">
+    <state width="1799" height="364" key="GridCell.Tab.1.bottom/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619425551195" />
+    <state width="1799" height="364" key="GridCell.Tab.1.center" timestamp="1619425551195">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
     <state width="1799" height="364" key="GridCell.Tab.1.center/0.0.1842.1080/-1920.2.1474.864@-1920.2.1474.864" timestamp="1619097539689" />
-    <state width="1799" height="364" key="GridCell.Tab.1.center/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619182420524" />
-    <state width="1799" height="364" key="GridCell.Tab.1.left" timestamp="1619182420523">
+    <state width="1799" height="364" key="GridCell.Tab.1.center/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619425551195" />
+    <state width="1799" height="364" key="GridCell.Tab.1.left" timestamp="1619425551195">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
     <state width="1799" height="364" key="GridCell.Tab.1.left/0.0.1842.1080/-1920.2.1474.864@-1920.2.1474.864" timestamp="1619097539689" />
-    <state width="1799" height="364" key="GridCell.Tab.1.left/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619182420523" />
-    <state width="1799" height="364" key="GridCell.Tab.1.right" timestamp="1619182420524">
+    <state width="1799" height="364" key="GridCell.Tab.1.left/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619425551195" />
+    <state width="1799" height="364" key="GridCell.Tab.1.right" timestamp="1619425551195">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
     <state width="1799" height="364" key="GridCell.Tab.1.right/0.0.1842.1080/-1920.2.1474.864@-1920.2.1474.864" timestamp="1619097539689" />
-    <state width="1799" height="364" key="GridCell.Tab.1.right/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619182420524" />
-    <state x="-1502" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1619174748250">
-      <screen x="-1920" y="2" width="1474" height="864" />
+    <state width="1799" height="364" key="GridCell.Tab.1.right/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619425551195" />
+    <state x="522" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1619442520737">
+      <screen x="0" y="0" width="1842" height="1080" />
     </state>
     <state x="527" y="321" key="com.intellij.ide.util.TipDialog/-1920.2.1486.864/0.0.1858.1080@0.0.1858.1080" timestamp="1615034367296" />
     <state x="418" y="257" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1613826180913" />
     <state x="-1502" y="259" key="com.intellij.ide.util.TipDialog/0.0.1842.1080/-1920.2.1474.864@-1920.2.1474.864" timestamp="1619174748250" />
+    <state x="522" y="321" key="com.intellij.ide.util.TipDialog/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619442520737" />
+    <state x="651" y="305" key="extract.method.dialog" timestamp="1619445950018">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="651" y="305" key="extract.method.dialog/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619445950018" />
     <state x="-1678" y="164" key="new project wizard" timestamp="1618496270188">
       <screen x="-1920" y="2" width="1474" height="864" />
     </state>
     <state x="-1678" y="164" key="new project wizard/0.0.1842.1080/-1920.2.1474.864@-1920.2.1474.864" timestamp="1618496270188" />
-    <state x="577" y="250" key="run.anything.popup" timestamp="1619142203206">
+    <state x="577" y="250" key="run.anything.popup" timestamp="1619230090287">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
-    <state x="577" y="250" key="run.anything.popup/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619142203206" />
-    <state x="584" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1619071379560">
+    <state x="577" y="250" key="run.anything.popup/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619230090287" />
+    <state x="584" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1619231314230">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
-    <state x="584" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619071379560" />
+    <state x="584" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1842.1080/-1920.2.1474.864@0.0.1842.1080" timestamp="1619231314230" />
   </component>
 </project>
