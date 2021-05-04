@@ -10,7 +10,7 @@ import java.util.Map;
  * @Date 2021.5.2 21:46
  * @Version 1.0.0-Beta
  **/
-public class twoSum {
+public class TwoSum {
     public static int[] twoSum(int[] nums, int target){
         Map<Integer, Integer> hashMap = new HashMap<>();
         int[] result = new int[] {0,1};

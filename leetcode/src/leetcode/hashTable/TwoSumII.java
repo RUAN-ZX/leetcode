@@ -10,7 +10,7 @@ import java.util.Map;
  * @Date 2021.5.2 22:10
  * @Version 1.0.0-Beta
  **/
-public class twoSumII {
+public class TwoSumII {
     // 哈希解法 时间O(n) 空间O(n)
     public static int[] twoSumByHashTable(int[] numbers, int target){
         Map<Integer, Integer> hashMap = new HashMap<>();
